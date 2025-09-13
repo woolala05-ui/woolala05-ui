@@ -7,3 +7,4 @@
 - 💬 Ask me about my dog
 - ⚡ Fun fact: My dog is fat
 
+Bye
